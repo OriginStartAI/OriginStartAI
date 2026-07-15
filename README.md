@@ -32,6 +32,21 @@ GitHub example -> first API call -> working prompt -> recharge -> production wor
 - SEO outlines and product copy.
 - Internal automation workflows.
 
+## Search Topics
+
+OriginStartAI examples are written for developers searching for:
+
+- OpenAI-compatible API examples.
+- Claude Code API starter.
+- Chat completions API quick start.
+- Streaming AI API examples.
+- JSON structured output with LLMs.
+- AI API cookbook recipes.
+
+## New User Offer
+
+Start with one working example. When the first API call succeeds, recharge `$5` and get `$5` extra API credits.
+
 ## Links
 
 - Website: https://originstartai.com?utm_source=github&utm_medium=profile&utm_campaign=originstartai_profile
