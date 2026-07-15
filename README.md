@@ -50,4 +50,6 @@ Start with one working example. When the first API call succeeds, recharge `$5` 
 ## Links
 
 - Website: https://originstartai.com?utm_source=github&utm_medium=profile&utm_campaign=originstartai_profile
+- First-call video demo script: [docs/first-call-video-demo.md](docs/first-call-video-demo.md)
+- OpenAI API comparison: [docs/comparisons/openai-api.md](docs/comparisons/openai-api.md)
 - Support: support@originstartai.com
